@@ -1,0 +1,4 @@
+repository "NT take 2 2025-04-30_12-03-02/NT take 2@7971634156864@cloud"
+  path "/"
+    br "/main"
+    co "/main"
